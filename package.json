@@ -1,0 +1,19 @@
+{
+  "name": "next-example",
+  "version": "1.0.0",
+  "description": "1. Inicializar el `package.json` con el comando `npm init -y`",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "3.0.3",
+    "react": "15.6.1",
+    "react-dom": "15.6.1"
+  }
+}
