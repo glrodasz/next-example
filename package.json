@@ -1,7 +1,7 @@
 {
   "name": "next-example",
   "version": "1.0.0",
-  "description": "1. Inicializar el `package.json` con el comando `npm init -y`",
+  "description": "Next.js simple example", 
   "main": "index.js",
   "scripts": {
     "dev": "next",
