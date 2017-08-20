@@ -21,4 +21,4 @@ export default () => (
 6. Correr la aplicacion en modo desarrollo con `npm run dev`.
 
 ## Ejercicio
-1. Consumir el endpoint de productos `https://wt-a47937f2722a7e6b9641e60403c26d55-0.run.webtask.io/ecommerce-api-in-webtask/products` y hacer render de esos productos.
+1. Consumir el endpoint de productos y hacer render de esos productos.
