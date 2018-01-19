@@ -21,4 +21,4 @@ export default () => (
 6. Correr la aplicacion en modo desarrollo con `npm run dev`.
 
 ## Ejercicio
-1. Consumir el endpoint de productos y hacer render de esos productos.
+Consumir el endpoint de productos y hacer render de esos productos.
